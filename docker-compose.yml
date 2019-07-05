@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+### Swoole-Compiler Container #######################################
+  swoole-compiler:
+    image: jaderh/swoole-compiler:latest
+    container_name: swoole-compiler
+    volumes:
+      - ./conf:/data/conf
+      - ./code:/data/code
+      - ./output:/data/output
+    mac_address: 00:0C:29:30:6F:C5
+    stdin_open: true
+    tty: true
