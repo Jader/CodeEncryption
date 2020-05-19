@@ -17,7 +17,7 @@ $ git clone https://github.com/JaderH/CodeEncryption.git
 ### 运行容器编排
 
 ```
-$ cd JadeDock   // 进入项目根目录
+$ cd CodeEncryption   // 进入项目根目录
 $ docker-compose up -d   // 容器编排命令
 ```
 
