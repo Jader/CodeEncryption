@@ -11,7 +11,7 @@
 ### 获取部署脚本
 
 ```
-$ git clone https://github.com/JaderH/CodeEncryption.git
+$ git clone https://github.com/Jader/CodeEncryption.git
 ```
 
 ### 运行容器编排
