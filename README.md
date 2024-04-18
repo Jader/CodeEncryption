@@ -65,7 +65,7 @@ php.ini
 
 ```
 [swoole_compiler]
-extension=swoole_loader72.so ; 关于扩展暂时不提供，需要可以联系我
+extension=swoole_loader72.so ; 关于扩展需要去swoole官方购买后得到
 swoole_license_files=/data/www/Jade/jade.license ;这里是产生的授权文件
 ```
 
